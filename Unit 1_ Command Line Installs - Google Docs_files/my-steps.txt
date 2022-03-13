@@ -1,0 +1,148 @@
+### Step 2A
+/c/Users/rwhoc
+
+
+### Step 2B
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~ (master)
+$ cd Desktop
+
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~/Desktop (master)
+$
+
+
+### Step 2C
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~ (master)
+$ cd Desktop
+
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~/Desktop (master)
+$ ls
+'Active Folder'/
+'Budget Project'/
+'CRM Leads List Master - Show All.url'
+'Coding Courses'/
+'DaVinci Resolve.lnk'*
+ Git-2.35.0-64-bit.exe*
+ Gmail.lnk*
+ GrammarlySetup.exe*
+'GranC Projects'/
+'Personal Gmail.lnk'*
+ SSA.lnk*
+'Sales Marketing Strategy - Shortcut.lnk'*
+ Slack.lnk*
+ SlackSetup.exe*
+'Ultimate Guitar Tabs.lnk'*
+'Visual Studio Code.lnk'*
+ WebBuilding/
+ Zoom.lnk*
+ desktop.ini
+ installbackupandsync.exe*
+ mp68-win-mx410-1_02-ea24.exe*
+
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~/Desktop (master)
+$ cd "GranC Projects"
+
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~/Desktop/GranC Projects (master)
+$ ls
+'Family Age project'/
+'Front-End Deliverable 1 2022Q1 - Style Guide - Google Docs.pdf'
+'JavaScript Unit 1 Reference.docx'
+'JavaScript Unit 1 Reference.pdf'
+'Javascript Deliverable 2 2022Q1 - Google Docs.pdf'
+'Practice Website'/
+ RHochstadt-part-one/
+'Unicorn Website'/
+ Unit1-Practice/
+ VSCodeUserSetup-x64-1.63.2.exe*
+ unit1-git-practice/
+
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~/Desktop/GranC Projects (master)
+$ cd unit1-git-practice
+
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~/Desktop/GranC Projects/unit1-git-practice (master)
+$
+
+
+### Step 2D
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~/Desktop/GranC Projects/unit1-git-practice (master)
+$ pwd
+/c/Users/rwhoc/Desktop/GranC Projects/unit1-git-practice
+
+rwhoc@DESKTOP-VAO6QFA MINGW64 ~/Desktop/GranC Projects/unit1-git-practice (master)
+
+
+### Step 2E
+
+
+### Step 2F
+
+
+### Step 2G
+
+
+### Step 2H
+
+
+### Step 2I
+
+
+### Step 2J
+
+
+### Step 2K
+
+
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
